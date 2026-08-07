@@ -8,5 +8,5 @@
 <br>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,python,nodejs,postgres,mysql,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,postgres,mysql,cs&theme=dark" />
 </div>
